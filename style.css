@@ -1,0 +1,37 @@
+.block{
+    float: left;
+    border-radius: 1em;
+    width: 300px;
+    border: 1px solid greenyellow;
+    padding: 10px;
+    background-color: rgb(238,237,234);
+    margin: 0px 0px 50px 100px;
+}
+h3{
+    background-color: rgb(245,133,4);
+    border-radius: 1em;
+    width: 55%;
+    padding-left: 8px;
+    height: 25px;
+    font-size: 18px;
+}
+.taitoru{
+    font-size: 40px;
+    margin: 0px;
+    background-color: palevioletred;
+    font-family: 'Tapestry', cursive;
+    color: whitesmoke;
+}
+.rinku{
+    background-color: greenyellow;
+}
+.ruru{
+    background-color: aqua;
+}
+.buki{
+    background-color: yellow;
+}
+.fom{
+    background-color: orange;
+    margin-bottom: 100px;
+}
